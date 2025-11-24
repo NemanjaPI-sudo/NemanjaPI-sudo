@@ -59,13 +59,13 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 
 ---
 
-### 📂 Featured Projects  
+### 📂 Featured Projects
 <p align="center">
   <a href="https://github.com/NemanjaPI-sudo/BasketBall-IQ-Dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=BasketBall-IQ-Dev&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="BasketBall-IQ-Dev">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=BasketBall-IQ-Dev&theme=tokyonight&hide_border=true&cache_seconds=7200&t=1" alt="BasketBall-IQ-Dev">
   </a>
   <a href="https://github.com/NemanjaPI-sudo/realtime-phone-agents-course">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=realtime-phone-agents-course&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Realtime Phone Agents">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=realtime-phone-agents-course&theme=tokyonight&hide_border=true&cache_seconds=7200&t=1" alt="Realtime Phone Agents">
   </a>
 </p>
 
