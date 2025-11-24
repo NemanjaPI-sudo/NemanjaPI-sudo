@@ -66,21 +66,7 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 
 
 
----
 
-### 📂 Featured Projects (private)
-<p align="center">
-  <a href="#basketai-private-overview">
-    <img src="https://img.shields.io/badge/BasketAI-Private%20Repo-6f42c1?logo=github&logoColor=white" alt="BasketAI (Private)">
-  </a>
-</p>
-
-#### 🔒 BasketAI (private)
-Real-time player tracking, pose estimation, jersey number OCR (YOLOv11, RT-DETR, ResNet, FSM fallback).
-
-
-
----
 
 ### 🌐 Connect with Me  
 📧 **nemanja.lilic.pi@gmail.com**  
