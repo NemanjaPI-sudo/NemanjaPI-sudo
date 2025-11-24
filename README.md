@@ -51,22 +51,6 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 
 ---
 
-### 💻 Top Languages  
-<p align="center">
-  <!-- 🔹 Dynamic GitHub Languages Chart -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NemanjaPI-sudo&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=7200" alt="Top Languages" width="50%">
-</p>
-
-<p align="center">
-  <!-- 🔹 Custom Manual Percentages -->
-  <img src="https://img.shields.io/badge/Python-89%25-3776AB?logo=python&logoColor=white" alt="Python 89%">
-  <img src="https://img.shields.io/badge/GDScript-40%25-478CBF?logo=godotengine&logoColor=white" alt="GDScript 40%">
-</p>
-
-
-
-
-
 
 ### 🌐 Connect with Me  
 📧 **nemanja.lilic.pi@gmail.com**  
