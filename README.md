@@ -53,21 +53,31 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 
 ### 💻 Top Languages  
 <p align="center">
+  <!-- 🔹 Dynamic GitHub Languages Chart -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NemanjaPI-sudo&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=7200" alt="Top Languages" width="50%">
 </p>
+
+<p align="center">
+  <!-- 🔹 Custom Manual Percentages -->
+  <img src="https://img.shields.io/badge/Python-89%25-3776AB?logo=python&logoColor=white" alt="Python 89%">
+  <img src="https://img.shields.io/badge/GDScript-40%25-478CBF?logo=godotengine&logoColor=white" alt="GDScript 40%">
+</p>
+
+
 
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects (private)
 <p align="center">
-  <a href="https://github.com/NemanjaPI-sudo/BasketBall-IQ-Dev">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=BasketBall-IQ-Dev&theme=tokyonight&hide_border=true&cache_seconds=7200&t=1" alt="BasketBall-IQ-Dev">
-  </a>
-  <a href="https://github.com/NemanjaPI-sudo/realtime-phone-agents-course">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=realtime-phone-agents-course&theme=tokyonight&hide_border=true&cache_seconds=7200&t=1" alt="Realtime Phone Agents">
+  <a href="#basketai-private-overview">
+    <img src="https://img.shields.io/badge/BasketAI-Private%20Repo-6f42c1?logo=github&logoColor=white" alt="BasketAI (Private)">
   </a>
 </p>
+
+#### 🔒 BasketAI (private)
+Real-time player tracking, pose estimation, jersey number OCR (YOLOv11, RT-DETR, ResNet, FSM fallback).
+
 
 
 ---
