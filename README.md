@@ -43,15 +43,16 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NemanjaPI-sudo&show_icons=true&theme=tokyonight" alt="Nemanja's GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NemanjaPI-sudo&theme=tokyonight" alt="Nemanja's streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=NemanjaPI-sudo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Nemanja's GitHub stats" width="48%">
+  <img src="https://streak-stats.demolab.com?user=NemanjaPI-sudo&theme=tokyonight&hide_border=true" alt="Nemanja's streak" width="48%">
 </p>
+
 
 ---
 
 ### 💻 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemanjaPI-sudo&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemanjaPI-sudo&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=7200" alt="Top Languages" width="50%">
 </p>
 
 ---
@@ -59,10 +60,10 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 ### 📂 Featured Projects  
 <p align="center">
   <a href="https://github.com/NemanjaPI-sudo/BasketBall-IQ-Dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=BasketBall-IQ-Dev&theme=tokyonight" alt="BasketBall-IQ-Dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=BasketBall-IQ-Dev&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="BasketBall-IQ-Dev">
   </a>
   <a href="https://github.com/NemanjaPI-sudo/realtime-phone-agents-course">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=realtime-phone-agents-course&theme=tokyonight" alt="Realtime Phone Agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=realtime-phone-agents-course&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Realtime Phone Agents">
   </a>
 </p>
 
