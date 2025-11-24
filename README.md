@@ -35,9 +35,11 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 ---
 
 ### 🔍 Interests  
-- Applied **AI research** in **sports analytics** and **vision transformers**  
+- Applied **AI research** in **sports analytics**, **industrial automation**, and **operator behavior analysis**  
+- **Computer Vision for workplace safety** – tracking operator motion, detecting unsafe actions, and evaluating task efficiency  
 - **Human-AI collaboration**, **edge computing**, and **data-driven intelligence**  
 - Building systems that merge **real-time perception** with **decision making**
+
 
 ---
 
