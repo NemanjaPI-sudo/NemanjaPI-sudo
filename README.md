@@ -3,9 +3,10 @@
 
 ---
 
-### 🧠 About Me  
+### 🧠 About Me   
 I’m an **AI & Computer Vision Engineer** passionate about building intelligent systems that understand the world through **vision, data, and motion**.  
-Currently working at **Michelin** as an **IT Technical Support Engineer**, and part-time at **MONG d.o.o.** as a **Software Engineer** on AI/ML systems.
+Currently working as a **Software Engineer** focused on **AI research and machine learning development**.
+
 
 ---
 
