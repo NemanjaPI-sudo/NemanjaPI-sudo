@@ -1,39 +1,83 @@
-💡 About Me
+<h1 align="center">👋 Hi, I'm Nemanja Lilić</h1>
+<h3 align="center">AI & Computer Vision Engineer | Researcher | Developer</h3>
 
-Hi! I’m Nemanja Lilić, an AI & Computer Vision Engineer passionate about building intelligent systems that understand the world through data, vision, and motion. I’m currently working at Michelin as an IT Technical Support Engineer, while contributing part-time to MONG d.o.o. as a Software Engineer on advanced AI/ML projects.
+---
 
-🧠 Research & Development Focus
+### 🧠 About Me  
+I’m an **AI & Computer Vision Engineer** passionate about building intelligent systems that understand the world through **vision, data, and motion**.  
+Currently working at **Michelin** as an **IT Technical Support Engineer**, and part-time at **MONG d.o.o.** as a **Software Engineer** on AI/ML systems.
 
-Computer Vision: multi-object tracking, player recognition, jersey number OCR, and visual analytics for sports intelligence.
+---
 
-Machine Learning: fine-tuning transformer-based detectors (RT-DETR, ViT, ResNet) and integrating OCR (PaddleOCR, SwinTextSpotter).
+### 🔬 Research & Development Focus  
+- 🧩 **Computer Vision:** multi-object tracking, player detection, pose estimation, and jersey number OCR.  
+- 🧠 **Machine Learning:** fine-tuning transformer detectors (**RT-DETR**, **ViT**, **ResNet**) and OCR models (**PaddleOCR**, **SwinTextSpotter**).  
+- ⚙️ **AI Systems:** FSM-based pipelines with fallback logic for robust inference.  
+- ☁️ **Data & Cloud:** **Azure**, **Databricks**, **Power BI**, and **FastAPI** backends for real-time analytics.
 
-AI Systems: designing FSM-based pipelines for vision tasks with fallback models and multi-stage inference (YOLO + RT-DETR + OCR).
+---
 
-Data Engineering: integrating Azure Data Lake, Databricks, Power BI, and FastAPI backends for real-time analytics.
+### 🏀 Current Project – BasketAI / BasketballIQ  
+**BasketAI** is an end-to-end AI system for real-time **player tracking, pose estimation, and jersey number recognition**.  
+It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number assignment and tracking across video frames.
 
-⚙️ Tech Stack
+> “Teaching computers to understand basketball the way players do.”
 
-Languages: Python, Go, GDScript, SQL
-Frameworks: PyTorch, Ultralytics YOLO, PaddleOCR, OpenCV, BoxMot/BoT-SORT, FastAPI
-Data & Cloud: Azure, MongoDB, Redis, Power Platform, SharePoint, Power BI
-DevOps: Docker, Git, VS Code, Jupyter, Databricks
+---
 
-🏀 Current Project
+### ⚙️ Tech Stack  
+**Languages:** Python · Go · SQL · GDScript  
+**Frameworks:** PyTorch · Ultralytics YOLO · PaddleOCR · OpenCV · BoxMot/BoT-SORT · FastAPI  
+**Databases:** MongoDB · Redis  
+**Cloud & BI:** Azure · Power BI · Power Platform · SharePoint  
+**Tools:** Docker · VS Code · Git · Databricks · Jupyter  
 
-BasketAI / BasketballIQ – AI-powered system for real-time player tracking, pose estimation, and jersey number recognition.
-Built using YOLOv11, RT-DETR, ResNet, and FSM logic for number assignment and tracking across video sequences.
+---
 
-🔍 Interests
+### 🔍 Interests  
+- Applied **AI research** in **sports analytics** and **vision transformers**  
+- **Human-AI collaboration**, **edge computing**, and **data-driven intelligence**  
+- Building systems that merge **real-time perception** with **decision making**
 
-Applied AI research in sports analytics, vision transformers, and multi-agent perception systems
+---
 
-Human-AI interaction, edge computing, and data-driven decision making
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NemanjaPI-sudo&show_icons=true&theme=tokyonight" alt="Nemanja's GitHub stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NemanjaPI-sudo&theme=tokyonight" alt="Nemanja's streak" width="48%">
+</p>
 
-📫 Connect
+---
 
-📧 nemanja.lilic.pi@gmail.com
+### 💻 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemanjaPI-sudo&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="50%">
+</p>
 
-💼 LinkedIn
+---
 
-🐙 GitHub Projects
+### 📂 Featured Projects  
+<p align="center">
+  <a href="https://github.com/NemanjaPI-sudo/BasketBall-IQ-Dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=BasketBall-IQ-Dev&theme=tokyonight" alt="BasketBall-IQ-Dev">
+  </a>
+  <a href="https://github.com/NemanjaPI-sudo/realtime-phone-agents-course">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemanjaPI-sudo&repo=realtime-phone-agents-course&theme=tokyonight" alt="Realtime Phone Agents">
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with Me  
+📧 **nemanja.lilic.pi@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/nemanja-lilic/)  
+🐙 [GitHub Projects](https://github.com/NemanjaPI-sudo)
+
+---
+
+⭐️ _“The best way to predict the future is to create it.”_
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NemanjaPI-sudo&theme=tokyo-night&radius=8&area=true&hide_border=true" alt="Nemanja's Activity Graph" />
+</p>
