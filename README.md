@@ -44,6 +44,7 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 
 ---
 
+ 
 ### 📊 GitHub Stats  
 <p align="center">
   <img 
@@ -51,10 +52,11 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
     width="48%" 
   />
   <img 
-    src="https://streak-stats.demolab.com?user=NemanjaPI-sudo&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=NemanjaPI-sudo&theme=tokyonight&hide_border=true" 
     width="48%" 
   />
 </p>
+
 
 
 
