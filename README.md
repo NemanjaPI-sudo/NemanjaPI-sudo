@@ -45,13 +45,16 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 ---
 
 ### 📊 GitHub Stats  
-<div align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NemanjaPI-sudo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" width="48%" />
-
-  <img src="https://streak-stats.demolab.com?user=NemanjaPI-sudo&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=NemanjaPI-sudo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" 
+    width="48%" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=NemanjaPI-sudo&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
+</p>
 
 
 
