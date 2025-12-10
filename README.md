@@ -47,7 +47,7 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NemanjaPI-sudo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Nemanja's GitHub stats" width="48%">
-  <img src="https://streak-stats.demolab.com?user=NemanjaPI-sudo&theme=tokyonight&hide_border=true" alt="Nemanja's streak" width="48%">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NemanjaPI-sudo" alt="GitHub Streak" /></a>
 </p>
 
 
