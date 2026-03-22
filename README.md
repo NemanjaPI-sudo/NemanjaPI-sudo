@@ -1,50 +1,30 @@
 <h1 align="center">👋 Hi, I'm Nemanja</h1>
-<h3 align="center">AI & Computer Vision Engineer | Researcher | Developer</h3>
+<h3 align="center">Software Engineer | Automation & Computer Vision</h3>
 
 ---
 
 ### 🧠 About Me   
-I’m an **AI & Computer Vision Engineer** passionate about building intelligent systems that understand the world through **vision, data, and motion**.  
-Currently working as a **Software Engineer** focused on **AI research and machine learning development**.
+I’m a **Software Engineer** focused on building efficient and scalable systems, with a strong interest in **automation** and **computer vision**.  
 
 
 ---
 
-### 🔬 Research & Development Focus  
-- 🧩 **Computer Vision:** multi-object tracking, player detection, pose estimation, and jersey number OCR.  
-- 🧠 **Machine Learning:** fine-tuning transformer detectors (**RT-DETR**, **ViT**, **ResNet**) and OCR models (**PaddleOCR**, **SwinTextSpotter**).  
-- ⚙️ **AI Systems:** FSM-based pipelines with fallback logic for robust inference.  
-- ☁️ **Data & Cloud:** **Azure**, **Databricks**, **Power BI**, and **FastAPI** backends for real-time analytics.
-
----
-
-### 🏀 Current Project – BasketAI / BasketballIQ  
-**BasketAI** is an end-to-end AI system for real-time **player tracking, pose estimation, and jersey number recognition**.  
-It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number assignment and tracking across video frames.
-
-> “Teaching computers to understand basketball the way players do.”
-
----
-
-### ⚙️ Tech Stack  
-**Languages:** Python · Go · SQL · GDScript  
-**Frameworks:** PyTorch · Ultralytics YOLO · PaddleOCR · OpenCV · BoxMot/BoT-SORT · FastAPI  
-**Databases:** MongoDB · Redis  
-**Cloud & BI:** Azure · Power BI · Power Platform · SharePoint  
-**Tools:** Docker · VS Code · Git · Databricks · Jupyter  
+### ⚙️ Core Expertise  
+- 🤖 **Automation:** designing systems that reduce manual work and improve operational efficiency  
+- 👁️ **Computer Vision:** object detection, tracking, and visual data processing  
+- 🧠 **Machine Learning:** applying modern models for real-world problem solving  
+- ☁️ **Data & Cloud:** building data-driven applications and analytics pipelines  
 
 ---
 
 ### 🔍 Interests  
-- Applied **AI research** in **sports analytics**, **industrial automation**, and **operator behavior analysis**  
-- **Computer Vision for workplace safety** – tracking operator motion, detecting unsafe actions, and evaluating task efficiency  
-- **Human-AI collaboration**, **edge computing**, and **data-driven intelligence**  
-- Building systems that merge **real-time perception** with **decision making**
-
+- Automation of business and industrial processes  
+- Computer vision applications in real-world systems  
+- Building scalable backend services and APIs  
+- Data-driven decision systems  
 
 ---
 
- 
 ### 📊 GitHub Stats  
 <p align="center">
   <img 
@@ -57,11 +37,7 @@ It combines **YOLOv11**, **RT-DETR**, **ResNet**, and **FSM logic** for number a
   />
 </p>
 
-
-
-
 ---
-
 
 ### 🌐 Connect with Me  
 📧 **nemanja.lilic.pi@gmail.com**  
